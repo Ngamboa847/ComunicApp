@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "359805343839",
+    "project_id": "comunicapp-3db48",
+    "storage_bucket": "comunicapp-3db48.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359805343839:android:ac320a159aa43ec5cf23ea",
+        "android_client_info": {
+          "package_name": "me.nicolas.comunicapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVs3qHPbbK46FdBPWc24vCc0DBRcJziZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
